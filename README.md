@@ -12,4 +12,4 @@ This repository contains two editions of the book **"Deep Learning for Medical I
 
 ## Repository Structure
 - **[Version 1](https://github.com/Mari94k/Deep-Learning-for-Medical-Image-Analysis-/blob/main/Deep%20Learning%20for%20Medical%20Image%20Analysis.%20S.%20Kevin%20Zhou%2C%20Hayit%20Greenspan%2C%20Dinggang%20Shen%2C%202017.pdf):** Contains the first edition of the book.
-- **[Version 2]:** Contains the updated second edition, featuring recent advancements and methodologies.
+- **[Version 2](https://github.com/Mari94k/Deep-Learning-for-Medical-Image-Analysis-/blob/main/Deep-learning-for-medical-image-analysis-2nd-edition.pdf):** Contains the updated second edition, featuring recent advancements and methodologies.
